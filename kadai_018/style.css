@@ -20,6 +20,7 @@
   width: 800px;
   height: 800px;
   background-color: #ffd9df;
+  position: relative;
   /* padding: 0px; */
   margin: 20px auto;
 }
